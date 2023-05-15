@@ -1,0 +1,25 @@
+#root {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 2rem;
+    text-align: left;
+  }
+  img{
+    width: 100%;
+  }
+
+  
+ 
+  .barhead{
+    border: 1px solid white;
+      background-color: white;
+      color: balck;
+      padding: 10px;
+
+  }
+  
+  
+ 
+  
+
+ 
